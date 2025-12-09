@@ -85,7 +85,7 @@
 ###
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishvarrunghe&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="devendradhare" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishvarrunghe&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="IshvarRunghe" />
   <p>
        
 <!--  </p>
