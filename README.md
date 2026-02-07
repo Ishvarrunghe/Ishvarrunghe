@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center"> hi! 👋 I am Ishvar Runghe</h1>
+<h1 align="center"> Hi! 👋 I am Ishvar Runghe</h1>
 <h3 align="center">a full stack web developer</h3>
 
 
